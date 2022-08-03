@@ -1,3 +1,4 @@
+<?php
 /*========================================== saber se o numero e negativo ou positivo =============================================================*/
 $valor=-34;
 echo "voce colocou o valor $valor ";
