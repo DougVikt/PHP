@@ -1,6 +1,6 @@
 <?php
 /*========================================= questão 1 ===================================================*/
-/*$produto="celular positivo";
+$produto="celular positivo";
 $quantidade=10;
 $preco=500;
 $total=$quantidade*$preco;
